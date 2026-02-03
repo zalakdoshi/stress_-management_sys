@@ -1,0 +1,12 @@
+{
+  "name": "stress-detection-backend",
+  "version": "1.0.0",
+  "description": "AI-Based Stress Detection System - Flask Backend",
+  "scripts": {
+    "start": "cd src && python app_mongodb.py",
+    "start:sqlite": "cd src && python app.py",
+    "train": "cd src && python stress_model.py"
+  },
+  "author": "",
+  "license": "ISC"
+}
