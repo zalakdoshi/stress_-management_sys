@@ -213,34 +213,34 @@ stress_management_sys/
 
 ## 📸 Screenshots
 
-### 🔐 Authentication
-| Login |
-|-------|
+### Authentication
+| Login Page |
+|:----------:|
 | ![Login](frontend/src/Screenshots/Login.png) |
 
-### 📊 Dashboard
-| Dashboard Overview | Dashboard Stats |
-|--------------------|-----------------|
+### Dashboard
+| Dashboard Overview | Dashboard Statistics |
+|:------------------:|:--------------------:|
 | ![Dashboard 1](frontend/src/Screenshots/Dashboard_1.png) | ![Dashboard 2](frontend/src/Screenshots/Dashboard_2.png) |
 
-### 🧠 Stress Assessment
+### Stress Assessment
 | Stress Check Form |
-|-------------------|
+|:-----------------:|
 | ![Stress Check](frontend/src/Screenshots/StressCheck.png) |
 
-### 💡 Recommendations
-| Recommendations View | Recommendations List |
-|---------------------|---------------------|
+### Recommendations
+| Recommendations Overview | Recommendations Details |
+|:------------------------:|:-----------------------:|
 | ![Recommendations 1](frontend/src/Screenshots/Recommendations_1.png) | ![Recommendations 2](frontend/src/Screenshots/Recommendations_2.png) |
 
-### 🤖 AI Chatbot & Journaling
-| AI Support | Mood Journal |
-|------------|--------------|
+### AI Chatbot & Journaling
+| AI Support Chatbot | Mood Journal |
+|:------------------:|:------------:|
 | ![AI Support](frontend/src/Screenshots/AiSupport.png) | ![Mood Journal](frontend/src/Screenshots/MoodJournal.png) |
 
-### 📈 Reports & Database
-| Reports | MongoDB Database |
-|---------|------------------|
+### Reports & Database
+| Stress Reports | MongoDB Database |
+|:--------------:|:----------------:|
 | ![Reports](frontend/src/Screenshots/Reports.png) | ![MongoDB](frontend/src/Screenshots/MongoDB.png) |
 
 ## 🤝 Contributing
