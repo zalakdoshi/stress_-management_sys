@@ -10,7 +10,7 @@
 
 **A comprehensive AI-powered web application for detecting, analyzing, and managing stress levels using Machine Learning and Generative AI.**
 
-[Features](#-features) • [Demo](#-demo) • [Installation](#-installation) • [Tech Stack](#-tech-stack) • [API Reference](#-api-endpoints)
+[Features](#features) • [Installation](#installation) • [Tech Stack](#tech-stack) • [API Reference](#api-endpoints)
 
 </div>
 
@@ -20,6 +20,7 @@
 
 This Stress Detection & Management System uses **Machine Learning** to predict stress levels based on lifestyle factors like sleep, work hours, exercise, and more. It provides personalized recommendations, AI-powered chat support, mood journaling, and comprehensive reports to help users understand and manage their stress effectively.
 
+<a id="features"></a>
 ## ✨ Features
 
 ### Core Features
@@ -38,6 +39,7 @@ This Stress Detection & Management System uses **Machine Learning** to predict s
 - 📅 **Weekly/Monthly Reports** - Visualize stress patterns over time
 - 📉 **Before/After Analysis** - Track your improvement journey
 
+<a id="tech-stack"></a>
 ## 🛠️ Tech Stack
 
 | Layer | Technology |
@@ -49,6 +51,7 @@ This Stress Detection & Management System uses **Machine Learning** to predict s
 | **AI Chatbot** | Google Gemini 2.5 Flash |
 | **Authentication** | Werkzeug Security (Password Hashing) |
 
+<a id="installation"></a>
 ## 🚀 Installation
 
 ### Prerequisites
@@ -157,6 +160,7 @@ stress_management_sys/
 └── README.md
 ```
 
+<a id="api-endpoints"></a>
 ## 🔗 API Endpoints
 
 ### Authentication
