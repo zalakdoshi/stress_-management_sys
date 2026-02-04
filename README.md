@@ -213,11 +213,35 @@ stress_management_sys/
 
 ## 📸 Screenshots
 
-*Add your application screenshots here*
+### 🔐 Authentication
+| Login |
+|-------|
+| ![Login](frontend/src/Screenshots/Login.png) |
 
-| Dashboard | Stress Form | AI Chatbot |
-|-----------|-------------|------------|
-| ![Dashboard](screenshots/dashboard.png) | ![Form](screenshots/form.png) | ![Chatbot](screenshots/chatbot.png) |
+### 📊 Dashboard
+| Dashboard Overview | Dashboard Stats |
+|--------------------|-----------------|
+| ![Dashboard 1](frontend/src/Screenshots/Dashboard_1.png) | ![Dashboard 2](frontend/src/Screenshots/Dashboard_2.png) |
+
+### 🧠 Stress Assessment
+| Stress Check Form |
+|-------------------|
+| ![Stress Check](frontend/src/Screenshots/StressCheck.png) |
+
+### 💡 Recommendations
+| Recommendations View | Recommendations List |
+|---------------------|---------------------|
+| ![Recommendations 1](frontend/src/Screenshots/Recommendations_1.png) | ![Recommendations 2](frontend/src/Screenshots/Recommendations_2.png) |
+
+### 🤖 AI Chatbot & Journaling
+| AI Support | Mood Journal |
+|------------|--------------|
+| ![AI Support](frontend/src/Screenshots/AiSupport.png) | ![Mood Journal](frontend/src/Screenshots/MoodJournal.png) |
+
+### 📈 Reports & Database
+| Reports | MongoDB Database |
+|---------|------------------|
+| ![Reports](frontend/src/Screenshots/Reports.png) | ![MongoDB](frontend/src/Screenshots/MongoDB.png) |
 
 ## 🤝 Contributing
 
@@ -229,11 +253,12 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## � Author
+## By
 
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
+**Zalak Doshi (Team Leader)**
+**Shreya Patel (Team Member)**
+**Sohani Pangotra (Team Member)**
+
 
 ## 📝 License
 
